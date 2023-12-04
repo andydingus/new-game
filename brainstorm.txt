@@ -1,0 +1,24 @@
+Genres for this game:
+
+1) 2D platformer
+2) 3D shooter
+3) 'Choose your own adventure'/visual novel
+4) Rhythm game
+5) Survival game
+6) Roguelite
+7) Rogue-like
+8) Horror game
+9) Puzzle game
+10) Hidden object game
+
+Themes for the game:
+1) Post-apocalyptic/sole-survivor of an event
+2) World traveler
+3) Isekai
+4) DJing at a club
+5) Searching for a missing person
+6) Avenging a loved one
+7) Solving a mystery
+8) None, just gaming!
+9) Journey of self-improvement
+10) Edgy, dark
