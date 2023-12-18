@@ -10,6 +10,11 @@ Genres for this game:
 8) Horror game
 9) Puzzle game
 10) Hidden object game
+11) Simulator
+12) Cooking game
+13) Souls-like game
+14) FPS
+15) MOBA
 
 Themes for the game:
 1) Post-apocalyptic/sole-survivor of an event
@@ -22,3 +27,8 @@ Themes for the game:
 8) None, just gaming!
 9) Journey of self-improvement
 10) Edgy, dark
+11) Enlightenment
+12) Reliving childhood dreams
+13) Returning to the past
+14) Family life
+15) Conquering inner demons
